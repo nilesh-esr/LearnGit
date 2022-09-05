@@ -2,3 +2,4 @@ Locations:
 Delhi
 Mumbai
 New York
+kolhapur
