@@ -2,3 +2,6 @@ Locations:
 Moon
 Sun
 Earth
+Delhi
+Pune
+Bangalore
